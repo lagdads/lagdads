@@ -6,4 +6,4 @@ Please check my repositories out! Maybe you can find something you like...
 
 ![lagdads's GitHub Streak](https://streak-stats.demolab.com/?user=lagdads&theme=transparent)
 
-![lagdads's Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lagdads&layout=compact&theme=transparent)
+![lagdads's Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lagdads&layout=compact&theme=transparent&hide=typescript,css)
